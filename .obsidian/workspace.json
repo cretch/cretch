@@ -11,8 +11,13 @@
             "id": "6317fc3b8c6c0621",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ktgndoc/docs/katagena/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ktgndoc/docs/katagena/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ktgndoc/docs/katagena/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ktgndoc/docs/katagena/index.md"
+              }
             }
           },
           {
@@ -166,6 +175,15 @@
   },
   "active": "6317fc3b8c6c0621",
   "lastOpenFiles": [
+    "ktgndoc/docs/index.md",
+    "ktgndoc/docs/blog/posts/hello-world.md",
+    "ktgndoc/docs/blog/index.md",
+    "ktgndoc/2021-11-22-22-49-26.png",
+    "ktgndoc/README.md",
+    "ktgndoc/2021-11-22-22-52-49.png",
+    "ktgndoc/2021-11-22-22-54-02.png",
+    "Tasks 1.md",
+    "Tasks.md",
     "CSS.md",
     "Templates/Daily.md",
     "Templates",
@@ -176,9 +194,6 @@
     "SGS/SAP/Protocoles/attachments/Pasted image 20230329105905.png",
     "SGS/SAP/Protocoles/attachments/Pasted image 20230328091644.png",
     "SGS/SAP/Protocoles/attachments/Pasted image 20230328091724.png",
-    "SGS/SAP/Protocoles/attachments/Pasted image 20230328091315.png",
-    "SGS/SAP/Protocoles/attachments/Pasted image 20230327154648.png",
-    "SGS/SAP/Protocoles/attachments/Pasted image 20230327154328.png",
     "SGS/SAP/Protocoles/Upgrade JVM.md",
     "SGS/SAP/Protocoles/Stop and Start.md",
     "SGS/SAP/Protocoles/Refresh SBX with Libelle.md",
@@ -201,12 +216,6 @@
     "SGS/SAP/Protocoles",
     "SGS/SAP/Morning checks.md",
     "SGS/SAP/Migration cockpit.md",
-    "SGS/SAP/Mesure des licences.md",
-    "SGS/SAP/Jobs.md",
-    "SGS/SAP/Installer pilote imprimante SAP.md",
-    "SGS/SAP/Create tablespace.md",
-    "SGS/SAP/Change STMS route.md",
-    "SGS/SAP/Autorizations brainstorming.md",
     "SGS/SAP/attachments",
     "SGS/ProMonitor/Instruction manual",
     "SGS/ProMonitor/attachments",
